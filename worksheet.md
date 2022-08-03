@@ -12,11 +12,25 @@ Take a look at the two repositories:
 And answer the following questions about them:
 
   * These repositories are at two different websites - github and bitbucket - what are these sites?  What service do they provide? Which is better?
+    These sites are cloud repository sites that store files on the cloud holding previous versions and alternate versions of files called branches. These branches can be accessed and edited to another version of the file. This allows for significant version control.
+    In personal experience, Github is the better site to use. :)
+
   * Who made the last commit to repository A?
+      Matthew Roberts
+
   * Who made the first commit to repository A?
+      Jon Mountjoy
+
   * Who made the first and last commits to repository B?
+      Dave Pearce
+
   * Are either/both of these projects active at the moment? 🤔 If not, what do you think happened?
+      Both are still active
+
   * 🤔 Which file in each project has had the most activity?
+      repository A: app.py
+      repository B: unknown :)
+  
 
 # Task 2
 
